@@ -1,10 +1,10 @@
 # movie-domo
 This is my first Repository   <br>
-AZHAR-Auther of this project
-Readme.md track the changes after 3 wek age.
-I have a skills :
--python 
--MySQL
--Data Structures
--OOP
--GUI Tkinter
+AZHAR-Auther of this project <br>
+Readme.md track the changes after 3 wek age. <br>
+I have a skills :<br>
+-python <br> 
+-MySQL <br>
+-Data Structures <br>
+-OOP <br>
+-GUI Tkinter <br>
