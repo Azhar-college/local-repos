@@ -7,4 +7,4 @@ I have a skills :<br>
 -MySQL <br>
 -Data Structures <br>
 -OOP <br>
--GUI Tkinter <br>
+-GUI (Graphical User Interface) Tkinter <br>
